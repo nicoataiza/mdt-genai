@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"args": [
+				"install",
+				"-r",
+				"requirements.txt"
+			],
+			"command": "pip",
+			"group": "build",
+			"isBackground": false,
+			"label": "Install Dependencies",
+			"type": "shell"
+		}
+	]
+}
