@@ -1,0 +1,16 @@
+Case Study: Aortic Stenosis
+
+Patient: John Doe, 72-year-old male.
+
+History: Presents with a 6-month history of increasing dyspnea on exertion, fatigue, and occasional episodes of lightheadedness. No history of syncope. Past medical history is significant for hypertension and hyperlipidemia, both well-controlled with medication.
+
+Physical Examination: Blood pressure 130/80 mmHg, heart rate 78 bpm. On cardiac auscultation, a harsh, late-peaking systolic ejection murmur was heard at the right upper sternal border, radiating to the carotid arteries.
+
+Investigations:
+- Echocardiogram: Revealed severe calcific aortic stenosis with a mean pressure gradient of 50 mmHg and an aortic valve area of 0.7 cm². Left ventricular ejection fraction was preserved at 55%.
+- Electrocardiogram (ECG): Showed left ventricular hypertrophy.
+- Coronary Angiogram: Revealed no significant coronary artery disease.
+
+Discussion: The patient's symptoms and investigation findings are consistent with severe symptomatic aortic stenosis. Given his age and symptoms, aortic valve replacement (AVR) is indicated. The options of surgical AVR (SAVR) versus transcatheter aortic valve implantation (TAVI) were discussed.
+
+Conclusion: After discussion with the heart team and the patient, the decision was made to proceed with TAVI, considering his age and preference for a less invasive procedure. The procedure was successful, and the patient had a good recovery with significant improvement in his symptoms.
